@@ -32,3 +32,12 @@ brew services start mariadb
 mysql.server start 
 sudo mysql -u root -p
 
+CREATE DATABASE database_name;
+
+USE database_name;
+
+CREATE TABLE ``
+
+
+drop database_name;  para eliminar la base de datos. 
+
