@@ -26,3 +26,9 @@ https://www.drawio.com/
 **UPDATE_AT:** Guarda en qué momento fue editado por última vez el registro.
 
 **TIMESTAMP:** Guarda marcas de tiempo en el formato 'aaaa-MM-dd HH:mm:ss' (También existe DATETIME y tienen algunas diferencias muy específicas)
+
+brew services start mariadb
+
+mysql.server start 
+sudo mysql -u root -p
+
