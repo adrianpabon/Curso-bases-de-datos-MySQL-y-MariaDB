@@ -2,6 +2,7 @@
 
 https://www.drawio.com/ 
 
+https://drive.google.com/file/d/10BUKduFn7xePj3f4hIwu1ng76v655O4l/view?usp=drive_link
 
 **PK:** Primary Key, es importante definir con detalle el tipo de dato correcto para este tipo de claves.
 
@@ -41,3 +42,5 @@ CREATE TABLE ``
 
 drop database_name;  para eliminar la base de datos. 
 
+
+![Alt text](alter.png)
