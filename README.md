@@ -43,4 +43,4 @@ CREATE TABLE ``
 drop database_name;  para eliminar la base de datos. 
 
 
-![Alt text](alter.png)
+![Alt text](Images/alter.png)
